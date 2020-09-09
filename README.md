@@ -1,19 +1,14 @@
-# SpringBoot 属性配置
+# 关于
+汉化进行中....
 
-##  目录
-* [1. Core properties](1.Core.md)
-* [2. Cache properties](2.Cache.md)
-* [3. Mail properties](3.Mail.md)
-* [4. JSON properties](4.JSON.md)
-* [5. Data properties](5.Data.md)
-* [6. Transaction properties](6.Transaction.md)
-* [7. Data migration properties](7.Datamigration.md)
-* [8. Integration properties](8.Integration.md)
-* [9. Web properties](9.Web.md)
-* [10. Templating properties](10.Templating.md)
-* [11. Server properties](11.Server.md)
-* [12. Security properties](12.Security.md)
-* [13. RSocket properties](13.RSocket.md)
-* [14. Actuator properties](14.Actuator.md)
-* [15. Devtools properties](15.Devtools.md)
-* [16. Testing properties](16.Testing.md)
+页面由 [docsify](https://github.com/docsify) 生成
+
+## 交流
+SpringBoot中文社区： [https://springboot.io](https://springboot.io)
+
+QQ群： [586178491](https://shang.qq.com/wpa/qunwpa?idkey=7b6ef3dceebcfcf382f8a05956c58d3202df4689157711ef387e65f799030640)
+
+微信群： 请添加管理员微信：`KevinBlandy`，备注 `springboot`，管理员会主动邀请你进群（恶意刷广告的太多了，只能人工邀请）
+
+![](https://cdn.jsdelivr.net/gh/springboot-community/oss/WeChat/f470a2d958f41c175c6f79a977b673a5cfee5ae2_2_386x500.jpeg)
+
