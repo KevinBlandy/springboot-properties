@@ -4,7 +4,7 @@ SpringBoot所有配置项的中文说明（使用[Deepl](https://www.deepl.com/h
 如果您发现了任何错误或者有待改进的地方，请联系我们。或者提交[PR](https://github.com/KevinBlandy/springboot-properties)帮助完善。我们对此表示由衷的感谢。
 
 - SpringBoot配置属性的官方文档 [https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html](https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html)
-- 页面由 [docsify](https://github.com/docsify) 生成，托管于 [coding](https://coding.net/)
+- 页面由 [docsify](https://github.com/docsifyjs/docsify) 生成，托管于 [coding](https://coding.net/)
 - 最后更新时间：`2020年9月10日`
 
 ## 联系
