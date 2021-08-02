@@ -1,4 +1,7 @@
-# 关于
+# 这个仓库已经不再维护
+最新的Spring文档网站 [doc.springcloud.io](https://doc.springcloud.io/)
+
+## 关于
 SpringBoot所有配置项的中文说明（使用[Deepl](https://www.deepl.com/home)翻译），由 [SpringBoot中文社区](https://springboot.io) 整理提供。
 
 如果您发现了任何错误或者有待改进的地方，请联系我们。或者提交[PR](https://github.com/KevinBlandy/springboot-properties)帮助完善。我们对此表示由衷的感谢。
