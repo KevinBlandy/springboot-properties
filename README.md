@@ -1,5 +1,7 @@
-# 这个仓库已经不再维护
-最新的Spring文档网站 [doc.springcloud.io](https://doc.springcloud.io/)
+# Springboot-Properties
+
+
+~~这个仓库已经不再维护~~
 
 ## 关于
 SpringBoot所有配置项的中文说明（使用[Deepl](https://www.deepl.com/home)翻译），由 [SpringBoot中文社区](https://springboot.io) 整理提供。
@@ -24,6 +26,3 @@ QQ群： [586178491](https://shang.qq.com/wpa/qunwpa?idkey=7b6ef3dceebcfcf382f8a
 - SpringBoot中文社区 [https://springboot.io](https://springboot.io)
 - SpringBoot Initializr [http://start.springboot.io](http://start.springboot.io)
 
-
-## 鸣谢
-感谢他们，对本文档做出了贡献。
